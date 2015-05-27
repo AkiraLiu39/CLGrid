@@ -9,11 +9,11 @@
 * 1. 把 `CLGridDemo/CLGrid`整个拖入项目
 * 2. 引入头文件:`CLGrid.h`
 
-####截图
-* 1. 简易
+### 截图
+#### 简易
 ![(simpleHeader)](https://github.com/unknownBug/CLGridDemo/blob/master/Screenshots/simpleGrid.gif "simple")
-* 2. 浮动的行头与列头
+#### 浮动的行头与列头
 ![(simpleHeader)](https://github.com/unknownBug/CLGridDemo/blob/master/Screenshots/header.gif "simple")
-* 3. 行头与列头合并单元格
+#### 行头与列头合并单元格
 ![(simpleHeader)](https://github.com/unknownBug/CLGridDemo/blob/master/Screenshots/headerSpan.gif "simple")
 
